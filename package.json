@@ -1,0 +1,15 @@
+{
+  "name": "azure-functions",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "mocha --recursive '**/tests/*"
+  },
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.1.0",
+    "sinon": "^14.0.2"
+  },
+  "devDependencies": {}
+}
